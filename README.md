@@ -6,6 +6,14 @@
 
 -Bjorn
 
+Account addresses to interact with:
+0x21d0e12980b32528b6F0AecbcF9528960EA1DfAe (Ropsten test network metamask funded with 137081 ETH
+Deploy targets:
+"0xF26D3d3EF71cf568E0010eA15E34fbf6c7c2fe11"
+"0x62D44fC89D1c65CdD71D10D782F20ea59C0433F7"
+"0x455e3D59F1eDc672dE643a0be8730a350c172110"
+
+
 
 
 .sol file is as follows:
